@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tankadai
+- 👀 I’m interested in Webdevelopment
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Same Projects
+- 📫 How to reach me at my social media profiles
